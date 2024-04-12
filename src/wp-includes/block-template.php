@@ -288,7 +288,7 @@ function _block_template_viewport_meta_tag() {
 	/**
 	 * Filters the default block-template viewport meta tag
 	 *
-	 * @since 6.4.0
+	 * @since 6.6.0
 	 *
 	 * @param string $meta_tag The complete HTML viewport meta tag.
 	 * @param string $content_attr  Value of the meta tag's content attribute.
